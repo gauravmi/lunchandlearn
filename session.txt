@@ -1,0 +1,11 @@
+ - Introduction ( 3 min )
+ - Some Concept (10 min)
+   * Function
+   * Function composition
+   * Currying and Higher order Functions
+ - Introduce Problem (2 min)
+   * Introduce Rules
+    1. You can not use built numbers
+    2. You can not use equal sign (no mutation or assignments)
+    3. The function can have only one argument (compose functions)
+ - Hands on (45)
