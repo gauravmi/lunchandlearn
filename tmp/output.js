@@ -17,11 +17,6 @@ const {log, test, DIV} = require("../lib.js");
 // 4. refactoring
 
 
-
-// What is successor function ?
-
-
-
 log(test((function (n) {
     return (function (bool) {
         return function (farg) {
